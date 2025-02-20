@@ -1,5 +1,11 @@
 # Sales Analysis
 
+## Table of Content
+- [Project Overview](#project-overview)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Insights and Recommendations](#insights-and-recommendations)
+
 ### Project Overview
 This data analysis project aims to provide insights and recommendations for improving budget performance and identifying cost-saving opportunities.My goal is to track revenue, expenses, and profits across different product categories and regions using this dataset.The insights derived from my analysis will inform decision-making and strategic planning for future budgeting.
 
@@ -29,7 +35,7 @@ Sales Data:The primary data used for this analysis is the "adventure_works_sales
  - Evaluate the impact of discounts on profitability.
  - Check sales trends month-over-month.
 
-### Insights and Recommendations for Improving Budget Performance & Cost-Saving Opportunities
+### Insights and Recommendations 
 #### 1. Revenue,Expenses and Profit Analysis
 ##### Insight:
 Total revenue ($118.67M) is significantly higher than total expenses ($101.81M), leading to a profit of $16.87M. However, expenses are quite high (almost 86% of revenue).
