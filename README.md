@@ -31,9 +31,41 @@ Sales Data:The primary data used for this analysis is the "adventure_works_sales
 
 ### Exploratory Data Analysis
  - Compare revenue,expenses and profit across different countries and product categories.
- - Determine which segment contributes the most to overall revenue and profit.
+
+
+
+![sales by product](https://github.com/user-attachments/assets/e5e24b36-914b-4062-ac8f-65f3f4543b12)
+
+![regional chart](https://github.com/user-attachments/assets/f1a582b3-ed77-4eda-9eec-9603cee76308)
+
+
+
+ - Determine which segment contributes the most to overall revenue.
+
+![sales by segment](https://github.com/user-attachments/assets/120c977b-ad2f-4d5b-8e55-55b1b5289fd5)
+
+
+
  - Evaluate the impact of discounts on profitability.
+
+
+
+
+
+ ![discount impact on profitability](https://github.com/user-attachments/assets/2bfc7e51-9e43-456f-86c7-0473d114d2ca)
+
+ 
+ 
  - Check sales trends month-over-month.
+
+
+
+
+![seasonality chart](https://github.com/user-attachments/assets/5303c663-5208-4216-bd82-8c202c70116e)
+
+
+
+
 
 ### Insights and Recommendations 
 #### 1. Revenue,Expenses and Profit Analysis
